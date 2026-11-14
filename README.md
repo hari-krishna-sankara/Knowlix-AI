@@ -2,10 +2,13 @@
 
 **Turn Your Documents Into Knowledge.**
 
-Knowlix AI is an AI-powered document intelligence platform that allows users to upload documents, ask questions, retrieve relevant information, and obtain intelligent answers using Retrieval-Augmented Generation (RAG), Large Language Models (LLMs), and web search.
+## 🌐 Live Demo
 
-The application combines document processing, semantic search, AI-powered question routing, and web search to provide a unified question-answering experience.
+**Try Knowlix AI here:**
 
+[🚀 Launch Knowlix AI](https://knowlix-ai-o7xk6wv5lpxtrocemn4oaf.streamlit.app/)
+
+Explore the live application to upload documents, ask questions, and experience AI-powered document search.
 ---
 
 ## 🚀 Features
